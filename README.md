@@ -29,7 +29,7 @@ Experience the browser-based ASL Gesture Speller live without installing anythin
 
 ## 🎬 Gameplay Demo
 
-### ⚡ Quick In-Game Preview (Autoplay)
+### ⚡ Quick In-Game Preview
 ![Sonari Gameplay Demo Preview](docs/demo.gif)
 
 ### 📺 Watch on YouTube
