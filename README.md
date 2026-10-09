@@ -5,13 +5,11 @@ Sonari is a zero-setup, offline 3D adventure game controlled in real-time using 
 
 ---
 
-## 🎬 Gameplay Demo Video
+## 🎬 Gameplay Demo
 
-Watch the game in action with real-time hand gesture tracking:
+![Sonari Gameplay Demo](docs/demo.gif)
 
-https://github.com/N1412N/Sonari/releases/download/v1.0.0/sonari_game_demo.mp4
-
-> 🎥 **Direct Video Link:** [Click here to view / download the full gameplay demo (MP4)](https://github.com/N1412N/Sonari/releases/download/v1.0.0/sonari_game_demo.mp4)
+> 🎥 **High-Quality 4K Video:** [Watch / Download Original Full 4K Video (MP4, 82 MB)](https://github.com/N1412N/Sonari/releases/download/v1.0.0/sonari_game_demo.mp4)
 
 ---
 
