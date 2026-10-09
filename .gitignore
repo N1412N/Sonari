@@ -1,0 +1,12 @@
+# Ignore heavy binary environments and compiled game assets (>100MB)
+bin/python_env/
+game/
+
+# Ignore log files
+*.log
+bin/controller_log.txt
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
