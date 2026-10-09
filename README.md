@@ -29,7 +29,10 @@ Experience the browser-based ASL Gesture Speller live without installing anythin
 
 ## 🎬 Gameplay Demo
 
-### 📺 Watch in Full HD (1080p / 60 FPS on YouTube)
+### ⚡ Quick In-Game Preview (Autoplay)
+![Sonari Gameplay Demo Preview](docs/demo.gif)
+
+### 📺 Watch on YouTube
 Click the video below to watch the official Sonari gameplay demonstration with real-time hand gesture tracking:
 
 [![Sonari Gameplay Demo on YouTube](https://img.youtube.com/vi/A3sDAS-8iSI/maxresdefault.jpg)](https://youtu.be/A3sDAS-8iSI)
@@ -40,8 +43,7 @@ Click the video below to watch the official Sonari gameplay demonstration with r
 
 <br/>
 
-### ⚡ Quick In-Game Preview (Autoplay)
-![Sonari Gameplay Demo Preview](docs/demo.gif)
+
 
 ---
 
