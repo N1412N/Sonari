@@ -1,6 +1,7 @@
 # Ignore heavy binary environments and compiled game assets (>100MB)
 bin/python_env/
 game/
+docs/*.mp4
 
 # Ignore log files
 *.log

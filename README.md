@@ -5,11 +5,43 @@ Sonari is a zero-setup, offline 3D adventure game controlled in real-time using 
 
 ---
 
-## 🎮 Playable Game Download
-The full standalone game installer (`sonari_installer.exe` / ~1.45 GB) is available directly on GitHub Releases:
-- **Download Link:** [Download sonari_installer.exe (v1.0.0)](https://github.com/N1412N/Sonari/releases/download/v1.0.0/sonari_installer.exe)
-- **Releases Page:** [View Release Notes & Assets](https://github.com/N1412N/Sonari/releases/tag/v1.0.0)
-- Run `sonari_installer.exe` and follow the extraction instructions to install and play.
+## 🎬 Gameplay Demo Video
+
+Watch the game in action with real-time hand gesture tracking:
+
+https://github.com/N1412N/Sonari/releases/download/v1.0.0/sonari_game_demo.mp4
+
+> 🎥 **Direct Video Link:** [Click here to view / download the full gameplay demo (MP4)](https://github.com/N1412N/Sonari/releases/download/v1.0.0/sonari_game_demo.mp4)
+
+---
+
+## 🕹️ How to Control the Game (Hand Gesture Guide)
+
+Below is the ASL hand gesture map used to navigate and control the character in Sonari:
+
+![Sonari Hand Gesture Controls](docs/controls_guide.png)
+
+* **Webcam Positioning:** Keep your hand clearly visible within the camera frame under good lighting.
+* **Hand Gestures:** The neural network recognizes the corresponding sign language hand poses in real-time to trigger movement (`W`, `A`, `S`, `D`), jumping, and actions.
+* **Topmost HUD:** The camera tracker window stays pinned on top so you can see your recognized gestures while playing.
+
+---
+
+## 📖 Full Project Report (รายงานฉบับสมบูรณ์)
+
+The complete NSC 28 technical evaluation report and research documentation is available directly in this repository:
+
+* 📄 **Read Online (GitHub PDF Viewer):** [Sonari Full Report (รายงานฉบับสมบูรณ์.pdf)](docs/Sonari_Full_Report.pdf)
+* 💾 **Direct Download:** [Download Report PDF (v1.0.0 Release)](https://github.com/N1412N/Sonari/releases/download/v1.0.0/Sonari_Full_Report.pdf)
+
+---
+
+## 🎮 Download & Play the Full Game
+
+The self-extracting standalone game installer (`sonari_installer.exe` / ~1.45 GB) includes the complete Unity 3D game and offline AI runtime with zero setup required:
+
+* 📦 **Direct Installer Download:** [Download sonari_installer.exe (v1.0.0)](https://github.com/N1412N/Sonari/releases/download/v1.0.0/sonari_installer.exe)
+* 🏷️ **GitHub Releases:** [View Release Notes & Assets](https://github.com/N1412N/Sonari/releases/tag/v1.0.0)
 
 > [!IMPORTANT]
 > **Windows Installation Path:**
@@ -51,7 +83,7 @@ graph TD
 
 ---
 
-## 🛠️ Python Requirements (For Development)
+## 🛠️ Python Requirements (For Source Development)
 
 If you wish to run the tracking controller manually from source:
 ```bash
