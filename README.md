@@ -1,7 +1,10 @@
 # Sonari - ASL Hand Gesture Controlled 3D Game
-**Project Code:** 28P21W00107 (NSC 28 - National Software Contest)
+**Project Code:** 28P21W00107 (NSC 28 - National Software Contest)  
+🌐 **Official Website & Live Demo:** [https://sonari.8offer.com/](https://sonari.8offer.com/)
 
 Sonari is a zero-setup, offline 3D adventure game controlled in real-time using **American Sign Language (ASL)** hand gestures captured via a standard webcam.
+
+> 🌟 **Try the Web Version:** You can test the web-based ASL Gesture Speller directly in your browser at [sonari.8offer.com](https://sonari.8offer.com/)!
 
 ---
 
