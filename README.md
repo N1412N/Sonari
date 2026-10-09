@@ -38,7 +38,7 @@ Click the video below to watch the official Sonari gameplay demonstration with r
 
 
 <div align="center">
-  <i>👉 Click the preview above or <a href="https://youtu.be/A3sDAS-8iSI">watch directly on YouTube (https://youtu.be/A3sDAS-8iSI)</a></i>
+  <i>👉 Click the preview above or <a href="https://youtu.be/A3sDAS-8iSI">watch directly on YouTube</a></i>
 </div>
 
 <br/>
