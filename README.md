@@ -6,8 +6,9 @@ Sonari is a zero-setup, offline 3D adventure game controlled in real-time using 
 ---
 
 ## 🎮 Playable Game Download
-The full standalone game installer (`sonari_installer.exe` / ~1.45 GB) is available directly under [Releases](https://github.com/N1412N/Sonari/releases):
-- **Download Link:** Go to the [Releases Tab](https://github.com/N1412N/Sonari/releases) and download `sonari_installer.exe`.
+The full standalone game installer (`sonari_installer.exe` / ~1.45 GB) is available directly on GitHub Releases:
+- **Download Link:** [Download sonari_installer.exe (v1.0.0)](https://github.com/N1412N/Sonari/releases/download/v1.0.0/sonari_installer.exe)
+- **Releases Page:** [View Release Notes & Assets](https://github.com/N1412N/Sonari/releases/tag/v1.0.0)
 - Run `sonari_installer.exe` and follow the extraction instructions to install and play.
 
 > [!IMPORTANT]
