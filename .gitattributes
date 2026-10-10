@@ -1,0 +1,3 @@
+# Git Attributes & GitHub Linguist configuration
+"unity_scripts/TextMesh Pro/**" linguist-vendored=true
+web/can_you_make_a_video_on_this_i.mp4 -diff

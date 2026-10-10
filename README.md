@@ -141,6 +141,30 @@ $$\mathbf{y} = \text{Softmax}(\mathbf{h}_2 \mathbf{W}_2 + \mathbf{b}_2)$$
 
 ---
 
+## 🗂️ Repository Structure & Source Code
+
+This repository contains the complete cross-stack source code powering the Sonari project:
+
+`
+├── bin/
+│   ├── handtest.py                 # MediaPipe CV + NumPy LiteMLP AI controller loop
+│   └── asl_mlp_weights.npz         # 74 KB trained feed-forward neural network weights
+├── unity_scripts/                  # 90 Unity 3D C# gameplay & system scripts
+│   ├── UI_Elements/                # ASL sign dictionary, quest manager, HUD, rewards
+│   ├── script/                     # NPC interactions (knight, witch, phoenix), bounds & waypoints
+│   ├── StarterAssets/              # Third-person character locomotion & camera controls
+│   └── SUPER Character Controller/ # Advanced 3D character physics and inputs
+├── web/                            # Production Web App (sonari.8offer.com)
+│   ├── index.html                  # Client-side ASL Gesture Speller app
+│   ├── login.php                   # Authentication UI portal
+│   └── config.example.php          # Database configuration template
+├── docs/                           # Official NSC 28 documentation & research report
+├── Run.exe                         # Native silent Windows background launcher
+└── requirements.txt                # Python dependencies
+`
+
+---
+
 ## 📖 Full Research Report (รายงานฉบับสมบูรณ์)
 
 The complete NSC 28 technical evaluation report, research methodology, and system design documentation is available directly in this repository:

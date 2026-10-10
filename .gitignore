@@ -7,6 +7,12 @@ docs/*.mp4
 *.log
 bin/controller_log.txt
 
+# Security & Secrets
+auth.php
+web/auth.php
+*.env
+*.env.local
+
 # OS metadata
 Thumbs.db
 Desktop.ini
