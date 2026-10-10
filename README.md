@@ -143,25 +143,40 @@ $$\mathbf{y} = \text{Softmax}(\mathbf{h}_2 \mathbf{W}_2 + \mathbf{b}_2)$$
 
 ## 🗂️ Repository Structure & Source Code
 
-This repository contains the complete cross-stack source code powering the Sonari project:
+This repository contains the complete cross-stack source code powering the Sonari ecosystem:
 
-`
-├── bin/
-│   ├── handtest.py                 # MediaPipe CV + NumPy LiteMLP AI controller loop
-│   └── asl_mlp_weights.npz         # 74 KB trained feed-forward neural network weights
-├── unity_scripts/                  # 90 Unity 3D C# gameplay & system scripts
-│   ├── UI_Elements/                # ASL sign dictionary, quest manager, HUD, rewards
-│   ├── script/                     # NPC interactions (knight, witch, phoenix), bounds & waypoints
-│   ├── StarterAssets/              # Third-person character locomotion & camera controls
-│   └── SUPER Character Controller/ # Advanced 3D character physics and inputs
-├── web/                            # Production Web App (sonari.8offer.com)
-│   ├── index.html                  # Client-side ASL Gesture Speller app
-│   ├── login.php                   # Authentication UI portal
-│   └── config.example.php          # Database configuration template
-├── docs/                           # Official NSC 28 documentation & research report
-├── Run.exe                         # Native silent Windows background launcher
-└── requirements.txt                # Python dependencies
-`
+```text
+Sonari/
+├── bin/                            # Computer Vision & Real-time AI Inference
+│   ├── handtest.py                 # MediaPipe CV tracking + LiteMLP controller loop
+│   ├── asl_mlp_weights.npz         # Lightweight neural network weights (74 KB)
+│   └── controller_log.txt          # Real-time pipeline diagnostics log
+├── unity_scripts/                  # 90 Unity 3D C# Gameplay & System Scripts
+│   ├── UI_Elements/                # ASL sign dictionary, quest tracker, HUD, rewards
+│   ├── script/                     # NPC dialogues (knight, witch, phoenix) & waypoints
+│   ├── StarterAssets/              # Third-person character movement & camera
+│   └── SUPER Character Controller/ # Advanced 3D character physics and locomotion
+├── web/                            # Production Web Portal (sonari.8offer.com)
+│   ├── index.html                  # Client-side ASL Gesture Speller web application
+│   ├── login.php                   # User authentication & registration portal
+│   └── config.example.php          # Database PDO configuration template
+├── docs/                           # Documentation, Media, & Official NSC Report
+│   ├── Sonari_Full_Report.pdf      # Complete NSC 28 Technical Research Report
+│   ├── controls_guide.png          # Visual hand gesture controls infographic
+│   └── demo.gif                    # Animated gameplay showcase
+├── Run.exe                         # Silent Windows GUI background launcher (C#)
+└── requirements.txt                # Python environment dependencies
+```
+
+### 🧩 Module Breakdown
+
+| Module | Primary Stack | Purpose & Highlights |
+| :--- | :---: | :--- |
+| **`bin/`** | Python • OpenCV • NumPy | Zero-TensorFlow hand gesture controller running at 30+ FPS via MediaPipe and `LiteMLP`. |
+| **`unity_scripts/`** | C# (.NET) • Unity 3D | 90 gameplay scripts driving character locomotion, quests, dynamic sign reference HUD, and NPC dialogues. |
+| **`web/`** | HTML5 • CSS3 • PHP | Browser-based gesture speller with zero-server client inference and glassmorphism authentication portal. |
+| **`Run.exe`** | C# (WinForms/Win32) | Silent launcher coordinating parallel startup between the Python AI daemon and Unity 3D game window. |
+| **`docs/`** | Technical Docs & Media | Full NSC 28 research evaluation report (`รายงานฉบับสมบูรณ์.pdf`), architecture diagrams, and previews. |
 
 ---
 
