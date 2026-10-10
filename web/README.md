@@ -9,6 +9,5 @@ This folder contains the complete, production-ready web application source code 
 - **S__10149890.jpg**: Full-screen background image for login.php.
 - **S__10264581.jpg**: Official Sonari logo image displayed on login.php.
 - **config.example.php**: Sanitized PDO MySQL database configuration template with environment variable support.
-- **config.php**: Local database configuration placeholder.
 
 > **Security Note:** Production database passwords and backend authentication secrets (uth.php) are intentionally excluded from version control to prevent credential leakage.

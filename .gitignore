@@ -10,6 +10,8 @@ bin/controller_log.txt
 # Security & Secrets
 auth.php
 web/auth.php
+config.php
+web/config.php
 *.env
 *.env.local
 
