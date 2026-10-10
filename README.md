@@ -165,7 +165,7 @@ This repository contains the complete cross-stack source code powering the Sonar
 
 ---
 
-## 📖 Full Research Report (รายงานฉบับสมบูรณ์)
+## 📖 Full Research Report
 
 The complete NSC 28 technical evaluation report, research methodology, and system design documentation is available directly in this repository:
 
