@@ -210,6 +210,15 @@ If you wish to test or modify the Python gesture controller directly:
 
 ---
 
+## 🙏 Acknowledgments & References
+
+Special thanks to the authors of the following open-source projects whose foundational architectures and research served as key references for Sonari:
+
+* 🎮 **[chaitanya-chafale/Hand-Gesture-Gaming](https://github.com/chaitanya-chafale/Hand-Gesture-Gaming)** — Foundational reference for real-time webcam hand tracking game control concepts, 3D character input mapping, and client-side MediaPipe browser integration.
+* 🤟 **[JaspreetSingh-exe/Sign-Language-Recognition-System](https://github.com/JaspreetSingh-exe/Sign-Language-Recognition-System)** — Foundational reference for the American Sign Language (ASL) 21 3D hand landmark feature extraction methodology and neural network gesture classification pipeline.
+
+---
+
 <div align="center">
 
 **Developed for the National Software Contest (NSC 28) • Project Code: `28P21W00107`**  
