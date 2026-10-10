@@ -1,3 +1,10 @@
 # Git Attributes & GitHub Linguist configuration
-"unity_scripts/TextMesh Pro/**" linguist-vendored=true
+
+# Vendor inlined neural network weights so they don't skew language percentages
+web/model_weights.js linguist-vendored=true
+
+# Large media files
 web/can_you_make_a_video_on_this_i.mp4 -diff
+
+# Vendor external Unity asset store packages
+"unity_scripts/TextMesh Pro/**" linguist-vendored=true

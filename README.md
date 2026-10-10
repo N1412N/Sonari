@@ -158,6 +158,7 @@ Sonari/
 │   └── SUPER Character Controller/ # Advanced 3D character physics and locomotion
 ├── web/                            # Production Web Portal (sonari.8offer.com)
 │   ├── index.html                  # Client-side ASL Gesture Speller web application
+│   ├── model_weights.js            # Extracted neural network weights (508 KB)
 │   ├── login.php                   # User authentication & registration portal
 │   └── config.example.php          # Database PDO configuration template
 ├── docs/                           # Documentation, Media, & Official NSC Report
