@@ -169,7 +169,7 @@ This repository contains the complete cross-stack source code powering the Sonar
 
 The complete NSC 28 technical evaluation report, research methodology, and system design documentation is available directly in this repository:
 
-* 📄 **Read Online (GitHub PDF Viewer):** [Sonari Full Report (รายงานฉบับสมบูรณ์.pdf)](docs/Sonari_Full_Report.pdf)
+* 📄 **Read Online (GitHub PDF Viewer):** [Sonari Full Report](docs/Sonari_Full_Report.pdf)
 * 💾 **Direct Download:** [Download PDF from Releases](https://github.com/N1412N/Sonari/releases/download/v1.0.0/Sonari_Full_Report.pdf)
 
 ---
