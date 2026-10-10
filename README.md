@@ -10,6 +10,7 @@
 [![Project](https://img.shields.io/badge/NSC%2028-Project%2028P21W00107-10b981?style=flat)](docs/Sonari_Full_Report.pdf)
 [![Engine](https://img.shields.io/badge/Engine-Unity%203D-black?style=flat&logo=unity&logoColor=white)](https://unity.com/)
 [![AI Inference](https://img.shields.io/badge/Inference-NumPy%20LiteMLP-orange?style=flat&logo=numpy&logoColor=white)](bin/handtest.py)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 <br/>
 
